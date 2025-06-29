@@ -23,6 +23,6 @@ React Hooks – State & lifecycle management
 CSS – Styling and effects
 
 👤 Author
-Your Name
-📧 your.email@example.com
+MD Rakib Hasan
+📧 dev.rakibhasan1@gmail.com
 🔗 GitHub | LinkedIn
